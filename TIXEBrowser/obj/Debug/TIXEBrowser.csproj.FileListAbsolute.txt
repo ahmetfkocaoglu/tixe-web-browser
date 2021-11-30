@@ -1,0 +1,9 @@
+C:\Users\KOCAOGLU\Desktop\Ahmet\Program\TIXEBrowser\TIXEBrowser\bin\Debug\TIXEBrowser.exe.config
+C:\Users\KOCAOGLU\Desktop\Ahmet\Program\TIXEBrowser\TIXEBrowser\bin\Debug\TIXEBrowser.exe
+C:\Users\KOCAOGLU\Desktop\Ahmet\Program\TIXEBrowser\TIXEBrowser\bin\Debug\TIXEBrowser.pdb
+C:\Users\KOCAOGLU\Desktop\Ahmet\Program\TIXEBrowser\TIXEBrowser\obj\Debug\TIXEBrowser.csprojAssemblyReference.cache
+C:\Users\KOCAOGLU\Desktop\Ahmet\Program\TIXEBrowser\TIXEBrowser\obj\Debug\TIXEBrowser.Form1.resources
+C:\Users\KOCAOGLU\Desktop\Ahmet\Program\TIXEBrowser\TIXEBrowser\obj\Debug\TIXEBrowser.Properties.Resources.resources
+C:\Users\KOCAOGLU\Desktop\Ahmet\Program\TIXEBrowser\TIXEBrowser\obj\Debug\TIXEBrowser.csproj.GenerateResource.cache
+C:\Users\KOCAOGLU\Desktop\Ahmet\Program\TIXEBrowser\TIXEBrowser\obj\Debug\TIXEBrowser.exe
+C:\Users\KOCAOGLU\Desktop\Ahmet\Program\TIXEBrowser\TIXEBrowser\obj\Debug\TIXEBrowser.pdb
